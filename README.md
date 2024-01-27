@@ -1,2 +1,2 @@
-# CommonSenseExpansion
-Common Sense Expansion mod for RimWorld. It adds some tweaks that could be (and may be) in the well-known Common Sense mod.
+# Common Sense Expansion
+Like the well-known "Common Sense" mod, this mod fixes broken game mechanics and bugs, hence its name. Both mods can function independently.
